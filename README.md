@@ -56,6 +56,4 @@ This project explores and analyzes Spotify's top songs dataset from 2023 and pre
 
     Predictive modeling to forecast song popularity
 
-    Sentiment analysis based on lyrics (if available)
-
     Genre-based analysis
